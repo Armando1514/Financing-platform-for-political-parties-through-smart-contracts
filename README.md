@@ -21,19 +21,18 @@ Thanks to the management through smart contracts, it will not be possible to che
 
 
 
-### Video
+### Demo Video
 
 **Note**: The delay is due to the [block time](https://www.investopedia.com/terms/b/block-time-cryptocurrency.asp) 
 
 **Note**: For privacy reasons I have not recorded my accounts, but every time I clicked on [metamask](https://metamask.io/) (the fox) I changed accounts to do the operations.
-<p align="center" href="https://ferrara.link/img/Blockchain-political-election/video-blockchain.mp4">
->
-<img src="https://ferrara.link/img/Blockchain-political-election/youtube-512.png">
-</p>
+
+<p align="center">
+    <a href="https://ferrara.link/img/Blockchain-political-election/video-blockchain.mp4"><img src="http://ferrara.link/img/p2pAuctionMechanism2020/video.png"></a></p>
 
 ### How To Install
 
-**Note**: The user using the application is assumed to be using [metamask](https://metamask.io/). So you have to install it. **Don't forget to connect metamask on "localhost:3000" manually** ([here there is a tutorial](https://www.saturn.network/blog/metamask-approve-connections-guide/)).
+**Note**: All the users are assumed to be using [metamask](https://metamask.io/). So you have to install it. **Don't forget to connect metamask on "localhost:3000" manually** ([here there is a tutorial](https://www.saturn.network/blog/metamask-approve-connections-guide/)).
 
 #### How to Run
 

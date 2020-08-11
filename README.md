@@ -3,7 +3,7 @@
   <img src ="https://ferrara.link/img/Blockchain-political-election/logo.png" />
 </p>
 
-**Solution via blockchain to avoid cheating and illicit financing of political parties.**
+**A solution to the problem of illegal financing of political parties implemented through the smart contracts offered by the Ethereum blockchain technology,  . This implementation avoids cheating and illicit financing of political parties in an elegant and safe way.**
 
 ### Description
 

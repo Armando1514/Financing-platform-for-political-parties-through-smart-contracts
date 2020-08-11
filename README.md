@@ -1,4 +1,7 @@
-<p align="center">![img](https://ferrara.link/img/Blockchain-political-election/logo.png)</p>
+
+<p align="center"> 
+  <img src ="https://ferrara.link/img/Blockchain-political-election/logo.png" />
+</p>
 
 **Solution via blockchain to avoid cheating and illicit financing of political parties.**
 
@@ -23,8 +26,10 @@ Thanks to the management through smart contracts, it will not be possible to che
 **Note**: The delay is due to the [block time](https://www.investopedia.com/terms/b/block-time-cryptocurrency.asp) 
 
 **Note**: For privacy reasons I have not recorded my accounts, but every time I clicked on [metamask](https://metamask.io/) (the fox) I changed accounts to do the operations.
-<p>
-[![img](https://ferrara.link/img/Blockchain-political-election/youtube-512.png)](https://ferrara.link/img/Blockchain-political-election/video-blockchain.mp4)<p align="center">
+<p align="center" href="https://ferrara.link/img/Blockchain-political-election/video-blockchain.mp4">
+>
+<img src="https://ferrara.link/img/Blockchain-political-election/youtube-512.png">
+</p>
 
 ### How To Install
 

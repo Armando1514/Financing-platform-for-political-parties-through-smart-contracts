@@ -8,14 +8,14 @@ export default () => {
 
       <Link route ="/">
         <a className = "item">
-            CrowdCoin
+            Platform for political parties
         </a>
       </Link>
 
       <Menu.Menu position = "right">
       <Link route ="/">
         <a className = "item">
-            List of Campaigns
+            Open election campaigns
         </a>
       </Link>
       <Link route ="/campaigns/new">
